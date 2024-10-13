@@ -79,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # mystore
 # my-store-f-
 # my-store-f-
+# clint
