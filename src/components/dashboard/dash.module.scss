@@ -1,0 +1,182 @@
+ .dashboard{
+    
+    .topbar{
+      
+          
+        border-bottom: 1px solid black;
+        box-shadow: 1px 1px 10px 1px rgb(2, 2, 2);
+    }
+   .dflex
+     {
+      h1 {
+      font-size: 2.5em;
+      font-weight: bold;
+      
+      text-align: right;
+      margin-bottom: 20px;
+      color: #333;
+  }
+  a {
+    font-size: 2em;
+    color: #151719;
+    float: right;
+    margin-right: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: rgb(86, 100, 86);
+}
+    display: flex;
+        align-items: center;
+        justify-content: space-between;
+         box-shadow: 1px 1px 10px 1px rgb(2, 2, 2);
+    }
+        .itemlink{
+            // color:rgb(219, 224, 226);
+            // text-decoration: none;
+            // font-size: 20px;
+            // display: block;
+        }
+
+ 
+    .contener{
+      
+        display: flex; 
+    }
+    
+    .sidebar{
+
+
+        
+            background-color: #2C3E50; /* لون غامق للشريط الجانبي */
+            color: #ECF0F1; /* لون فاتح للنص */
+            padding: 20px;
+            height: 100vh;
+          
+        // width: 15%;
+
+        // border-right: 1px solid black;
+        // height: 100vh;
+        // padding: 20px;
+        // // position: fixed;
+
+        }
+        .sidebar a {
+            display: block;
+            padding: 10px 15px;
+            color: #ECF0F1;
+            text-decoration: none;
+            margin-bottom: 10px;
+            transition: background 0.3s ease;
+          }
+
+.sidebar a:hover {
+    background-color: #4079b2; /* تغيير الخلفية عند المرور بالماوس */
+}  
+
+ .outlet{ 
+  .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #3498db; /* عرض الحدود ولونها */
+  }
+  
+//      .pie-chart {
+//   --size: 100px;
+//   --percentage: 50;
+//   width: var(--size);
+//   height: var(--size);
+//   border-radius: 50%;
+//   background: conic-gradient(#4caf50 calc(var(--percentage) * 1%), #ddd 0);
+// }
+
+    
+    width:100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  
+  
+    table th, table td {
+      padding: 12px 15px;
+      border-bottom: 1px solid #181717;
+      text-align: left;
+    }
+    
+    table th {
+      background-color: #2980B9;
+      color: white;
+    }
+    
+    table td {
+      // background-color: #dacece;
+    }
+    
+    table tr:hover {
+      background-color: #a9acb3; 
+    }
+    
+    button ,:link{
+      text-decoration: none;
+      margin-left: 20px;
+      background-color:#bc4d40; 
+      color:white;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 5px;
+      cursor: pointer;
+
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #f60909;
+}
+
+
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #7f9196;
+  color: #476b8e;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-left: 260px; /* لتوفير مساحة للشريط الجانبي */
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #34495E;
+}
+}
+
+    // width: 85%;
+    // background-color: rgb(115, 166, 123);
+   
+    // table, th, td {
+    //     border: 1px solid;
+    // }
+    // table {
+    //     width: 100%;
+    //     border-collapse: collapse;
+    // }
+
+    // tbody:hover {
+    //     background-color: rgba(16, 185, 106, 0.582);}
+    // button{
+    //     background-color: rgb(15, 220, 22);
+    //     margin: 5px;
+    // }
+    
+    
+  }
